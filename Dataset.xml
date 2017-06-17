@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!--First Name + Last Name-->
+  <Line Raw="Joe Smith" FirstName="Joe" MiddleName="" LastName="Smith" Title="" Nickname="" Suffix=""/>
+  
+  <!--Title + First Name + Last Name-->
+  <Line Raw="Hon. Navdeep Bains" FirstName="Navdeep" MiddleName="" LastName="Bains" Title="Hon." Nickname="" Suffix=""/>
+
+  <Line Raw="DeAndre Houston-Carson" FirstName="DeAndre" MiddleName="" LastName="Houston-Carson" Title="" Nickname="" Suffix=""/>
+
+  <Line Raw="Pasquale (Pat) Johnson" FirstName="Pasquale" MiddleName="" LastName="Johnson" Title="" Nickname="Pat" Suffix=""/>
+
+  <Line Raw="Giovanni Van Der Hutte" FirstName="Giovanni" MiddleName="" LastName="Van Der Hutte" Title="" Nickname="" Suffix=""/>
+
+  <Line Raw="Mr. Giocomo Van Exan" FirstName="Giocomo" MiddleName="" LastName="Van Exan" Title="Mr." Nickname="" Suffix=""/>
+</root>
