@@ -13,4 +13,11 @@
   <Line Raw="Giovanni Van Der Hutte" FirstName="Giovanni" MiddleName="" LastName="Van Der Hutte" Title="" Nickname="" Suffix=""/>
 
   <Line Raw="Mr. Giocomo Van Exan" FirstName="Giocomo" MiddleName="" LastName="Van Exan" Title="Mr." Nickname="" Suffix=""/>
+
+  <Line Raw="DeHart, Philip" FirstName="Philip" MiddleName="" LastName="DeHart" Title="" Nickname="" Suffix=""/>
+
+  <Line Raw="Jose Miguel de la Vega" FirstName="Jose" MiddleName="Miguel" LastName="de la Vega" Title="" Nickname="" Suffix=""/>
+  
+  <Line Raw="Tammy L. Baker" FirstName="Tammy" MiddleName="L." LastName="Baker" Title="" Nickname="" Suffix=""/>
+
 </root>
