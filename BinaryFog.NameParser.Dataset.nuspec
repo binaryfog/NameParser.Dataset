@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>BinaryFog.NameParser.Dataset</id>
+        <version>1.0.3</version>
+        <title>BinaryFog.NameParser.Dataset</title>
+        <authors>Catalin Hatmanu</authors>
+        <owners>BinaryFog.com</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Repository of person names parsed in component parts.</description>
+        <summary>Repository of person names parsed in component parts.</summary>
+        <copyright>BinaryFog.com</copyright>
+		<projectUrl>https://github.com/binaryfog/NameParser.Dataset</projectUrl>
+    </metadata>
+	<files>
+    <file src="content\Dataset.xml" target="DataFiles" />
+    </files>
+
+</package>
